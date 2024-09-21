@@ -1,4 +1,10 @@
 # Getting Started with Create React App
+* Built a ReactJS news app that empowers users with real-time awareness of local and global events. Featuring a
+customizable news feed based on interests.
+* Utilized a robust news API to seamlessly fetch and deliver real-time news updates, ensuring users stay informed with
+the latest developments.
+* Eliminates the need for traditional newspaper subscriptions, potentially saving users up to 7% on reducing paper
+waste and news consumption costs.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
